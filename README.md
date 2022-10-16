@@ -1,6 +1,6 @@
 
 
-## Tech Stacks
+## Tech Spec
 
 <img alt="HTML" src ="https://img.shields.io/badge/HTML-e34f26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="CSS" src ="https://img.shields.io/badge/CSS-ff9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
