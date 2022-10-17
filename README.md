@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=yoonstar&fontSize=90)
 
 ## Tech Spec
 
