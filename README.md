@@ -1,5 +1,68 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=yoonstar&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=180&section=header&text=Yoonstar%20github%20&fontSize=60)
 
-## Tech Spec
+## <p align="center"> 🌏 Social </p>
 
-<img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-ff9933?style=flat-square&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat-square&logo=jQuery&logoColor=white"/><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>
+<div align="center">
+<a href="https://github.com/yoonstar1996" target="_blank"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&?style=plastic&logo=GitHub&logoColor=white"/></a>
+<img alt="naver" src ="https://img.shields.io/badge/yagobo1110@naver.com-52db4b.svg?&?style=plastic&logo=Naver&logoColor=white"/>
+</div>
+
+## <p align="center"> 💪 Skills </p>
+
+### <p align="center"> 🖼 Front-End </p>
+
+<div align="center">
+<img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=plastic&logo=HTML5&logoColor=white"/>
+<img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&?style=plastic&logo=CSS3&logoColor=white"/>
+<img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&?style=plastic&logo=JavaScript&logoColor=white"/>
+</div>
+
+### <p align="center"> 📚 Library & Framework </p>
+
+<div align="center">
+<img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&?style=plastic&logo=jQuery&logoColor=white"/>
+<img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&?style=plastic&logo=Bootstrap&logoColor=white"/>
+<img alt="Socket.io" src ="https://img.shields.io/badge/Socket.io-010101.svg?&?style=plastic&logo=Socket.io&logoColor=white"/>
+</div>
+
+### <p align="center"> ⚙ Back-End </p>
+
+<div align="center">
+<img alt="NodeJs" src ="https://img.shields.io/badge/Node.js-339933.svg?&?style=plastic&logo=Node.js&logoColor=white"/>
+<img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&?style=plastic&logo=Express&logoColor=white"/>
+</div>
+
+## <p align="center"> ✏ Learning now </p>
+
+<div align="center">
+<img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&?style=plastic&logo=Sass&logoColor=white"/>
+<img alt="TS" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&?style=plastic&logo=TypeScript&logoColor=white"/>
+<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&?style=plastic&logo=React&logoColor=white"/>
+</div>
+
+## <p align="center"> ⚔ Tools </p>
+
+<div align="center">
+<img alt="VSCode" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&?style=plastic&logo=Visual Studio Code&logoColor=white"/>
+<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&?style=plastic&logo=Git&logoColor=white"/>
+<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&?style=plastic&logo=GitHub&logoColor=white"/>
+<img alt="FileZilla" src ="https://img.shields.io/badge/FileZilla-BF0000.svg?&?style=plastic&logo=FileZilla&logoColor=white"/>
+<br>
+<img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&?style=plastic&logo=Slack&logoColor=white"/>
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&?style=plastic&logo=Notion&logoColor=white"/>
+<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&?style=plastic&logo=Figma&logoColor=white"/>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonstar1996&show_icons=true&theme=radical))](https://github.com/yoonstar1996/github-readme-stats)
+
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonstar1996&layout=compact&exclude_repo=https://github.com/yoonstar1996/kdt-2nd)](https://github.com/yoonstar1996/github-readme-stats)
+
+</div>
