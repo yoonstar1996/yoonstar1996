@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=180&section=header&text=Yoonstar'%20github%20&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=180&section=header&text=Yoonstar's%20github%20&fontSize=60)
 
 ## <p align="center"> 🌏 Social </p>
 
