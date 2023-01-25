@@ -40,6 +40,7 @@
 <img alt="TS" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&?style=plastic&logo=TypeScript&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&?style=plastic&logo=React&logoColor=white"/>
 <img alt="Redux" src ="https://img.shields.io/badge/Redux-7952B3.svg?&?style=plastic&logo=Redux&logoColor=white"/>
+<img alt="Svelte" src ="https://img.shields.io/badge/Svelte-F24E1E.svg?&?style=plastic&logo=Redux&logoColor=white"/>
 </div>
 
 ## <p align="center"> ⚔ Tools </p>
