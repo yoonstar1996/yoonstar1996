@@ -39,7 +39,7 @@
 <div align="center">
 
 <img alt="TS" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&?style=plastic&logo=TypeScript&logoColor=white"/>
-<img alt="Next" src ="https://img.shields.io/badge/Next-000000.svg?&?style=plastic&logo=Next.js&logoColor=white"/>
+<img alt="Next" src ="https://img.shields.io/badge/Next.js-000000.svg?&?style=plastic&logo=Next.js&logoColor=white"/>
 <img alt="Redux" src ="https://img.shields.io/badge/Redux-7952B3.svg?&?style=plastic&logo=Redux&logoColor=white"/>
 <img alt="Svelte" src ="https://img.shields.io/badge/Svelte-F24E1E.svg?&?style=plastic&logo=Redux&logoColor=white"/>
 </div>
