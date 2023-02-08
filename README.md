@@ -23,7 +23,8 @@
 <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&?style=plastic&logo=jQuery&logoColor=white"/>
 <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&?style=plastic&logo=Bootstrap&logoColor=white"/>
 <img alt="Socket.io" src ="https://img.shields.io/badge/Socket.io-010101.svg?&?style=plastic&logo=Socket.io&logoColor=white"/>
-  <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&?style=plastic&logo=Sass&logoColor=white"/>
+<img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&?style=plastic&logo=Sass&logoColor=white"/>
+<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&?style=plastic&logo=React&logoColor=white"/>
 </div>
 
 ### <p align="center"> ⚙ Back-End </p>
@@ -38,7 +39,7 @@
 <div align="center">
 
 <img alt="TS" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&?style=plastic&logo=TypeScript&logoColor=white"/>
-<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&?style=plastic&logo=React&logoColor=white"/>
+<img alt="Next" src ="https://img.shields.io/badge/Next-000000.svg?&?style=plastic&logo=Next.js&logoColor=white"/>
 <img alt="Redux" src ="https://img.shields.io/badge/Redux-7952B3.svg?&?style=plastic&logo=Redux&logoColor=white"/>
 <img alt="Svelte" src ="https://img.shields.io/badge/Svelte-F24E1E.svg?&?style=plastic&logo=Redux&logoColor=white"/>
 </div>
