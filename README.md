@@ -12,35 +12,24 @@
 ### <p align="center"> 🖼 Front-End </p>
 
 <div align="center">
-<img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=plastic&logo=HTML5&logoColor=white"/>
-<img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&?style=plastic&logo=CSS3&logoColor=white"/>
-<img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&?style=plastic&logo=JavaScript&logoColor=white"/>
-</div>
-
-### <p align="center"> 📚 Library & Framework </p>
-
-<div align="center">
-<img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&?style=plastic&logo=jQuery&logoColor=white"/>
-<img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&?style=plastic&logo=Bootstrap&logoColor=white"/>
-<img alt="Socket.io" src ="https://img.shields.io/badge/Socket.io-010101.svg?&?style=plastic&logo=Socket.io&logoColor=white"/>
-<img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&?style=plastic&logo=Sass&logoColor=white"/>
-<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&?style=plastic&logo=React&logoColor=white"/>
+  <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=plastic&logo=HTML5&logoColor=white"/>
+  <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&?style=plastic&logo=CSS3&logoColor=white"/>
+  <img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&?style=plastic&logo=JavaScript&logoColor=white"/>
+  <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&?style=plastic&logo=jQuery&logoColor=white"/>
+  <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&?style=plastic&logo=Bootstrap&logoColor=white"/>
+  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&?style=plastic&logo=React&logoColor=white"/>
+  <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&?style=plastic&logo=Sass&logoColor=white"/>
+  <img alt="TS" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&?style=plastic&logo=TypeScript&logoColor=white"/>
+  <img alt="Next" src ="https://img.shields.io/badge/Next.js-000000.svg?&?style=plastic&logo=Next.js&logoColor=white"/>
+  <img alt="Redux" src ="https://img.shields.io/badge/Redux-7952B3.svg?&?style=plastic&logo=Redux&logoColor=white"/>
 </div>
 
 ### <p align="center"> ⚙ Back-End </p>
 
 <div align="center">
-<img alt="NodeJs" src ="https://img.shields.io/badge/Node.js-339933.svg?&?style=plastic&logo=Node.js&logoColor=white"/>
-<img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&?style=plastic&logo=Express&logoColor=white"/>
-</div>
-
-## <p align="center"> ✏ Learning now </p>
-
-<div align="center">
-
-<img alt="TS" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&?style=plastic&logo=TypeScript&logoColor=white"/>
-<img alt="Next" src ="https://img.shields.io/badge/Next.js-000000.svg?&?style=plastic&logo=Next.js&logoColor=white"/>
-<img alt="Redux" src ="https://img.shields.io/badge/Redux-7952B3.svg?&?style=plastic&logo=Redux&logoColor=white"/>
+  <img alt="NodeJs" src ="https://img.shields.io/badge/Node.js-339933.svg?&?style=plastic&logo=Node.js&logoColor=white"/>
+  <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&?style=plastic&logo=Express&logoColor=white"/>
+  <img alt="Socket.io" src ="https://img.shields.io/badge/Socket.io-010101.svg?&?style=plastic&logo=Socket.io&logoColor=white"/>
 </div>
 
 ## <p align="center"> ⚔ Tools </p>
