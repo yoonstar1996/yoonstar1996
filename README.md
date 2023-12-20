@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=180&section=header&text=Yoonstar's%20github%20&fontSize=60)
 
+## <p align="center"> 📗 Portfolio </p>
+
+<div align="center">
+<a href="https://portfolio-tau-lime-32.vercel.app/" target="_blank">Yoon's Portfolio 보러가기</a>
+</div>
+
 ## <p align="center"> 🌏 Social </p>
 
 <div align="center">
@@ -64,8 +70,4 @@
 </div>
 
 
-## <p align="center"> 📗 Portfolio </p>
 
-<div align="center">
-<a href="https://portfolio-tau-lime-32.vercel.app/" target="_blank">https://portfolio-tau-lime-32.vercel.app/</a>
-</div>
