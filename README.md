@@ -30,6 +30,7 @@
   <img alt="TS" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&?style=plastic&logo=TypeScript&logoColor=white"/>
   <img alt="Next" src ="https://img.shields.io/badge/Next.js-000000.svg?&?style=plastic&logo=Next.js&logoColor=white"/>
   <img alt="Redux" src ="https://img.shields.io/badge/Redux-7952B3.svg?&?style=plastic&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
 </div>
 
 ### <p align="center"> ⚙ Back-End </p>
