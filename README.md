@@ -3,7 +3,7 @@
 ## <p align="center"> 📗 Portfolio </p>
 
 <div align="center">
-<a href="https://portfolio-tau-lime-32.vercel.app/" target="_blank">Yoon's Portfolio 보러가기</a>
+<a href="https://portfolio-tau-lime-32.vercel.app/" target="_blank">Yoonstar's Portfolio 보러가기</a>
 </div>
 
 ## <p align="center"> 🌏 Social </p>
