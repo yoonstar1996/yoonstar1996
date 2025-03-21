@@ -3,7 +3,7 @@
 ## <p align="center"> 📗 Portfolio </p>
 
 <div align="center">
-<a href="https://portfolio-five-beryl-94.vercel.app" target="_blank">Yoonstar's Portfolio 보러가기</a>
+<a href="https://yoonstars-portpolio.vercel.app" target="_blank">Yoonstar's Portfolio 보러가기</a>
 
 </div>
 
