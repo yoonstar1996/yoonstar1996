@@ -10,8 +10,8 @@
 ## <p align="center"> 🌏 Social </p>
 
 <div align="center">
+<img alt="naver" src ="https://img.shields.io/badge/yagobo1110@naver.com-52db4b.svg?&?style=plastic&logo=Naver&logoColor=white"/><br/>
 <a href="https://github.com/yoonstar1996" target="_blank"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&?style=plastic&logo=GitHub&logoColor=white"/></a>
-<img alt="naver" src ="https://img.shields.io/badge/yagobo1110@naver.com-52db4b.svg?&?style=plastic&logo=Naver&logoColor=white"/>
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yoonstar)](https://velog.io/@yoonstar/posts) 
 </div>
