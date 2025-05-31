@@ -70,7 +70,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonstar1996&layout=compact&exclude_repo=https://github.com/yoonstar1996/kdt-2nd)](https://github.com/yoonstar1996/github-readme-stats)
 
 <br>
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yoonstar1996%2Fgjbae1212%2Fhit-counter)](https://github.com/yoonstar1996)                    
+             
 </div>
