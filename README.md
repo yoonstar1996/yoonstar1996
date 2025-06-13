@@ -19,14 +19,23 @@
 
   <b>🛠️ Skills</b>
   <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next" />
-  </p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=tailwind,scss,styledcomponents,vercel,supabase,prisma,nodejs" />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,scss,styledcomponents,tailwind" />
+    </a>
   </p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,notion,figma,discord,vscode" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,next" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=supabase,prisma,nodejs,express" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,figma,notion,discord,vercel,vscode" />
     </a>
   </p>
   
