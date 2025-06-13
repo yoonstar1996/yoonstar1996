@@ -8,7 +8,7 @@
 
   <b>📗 Portfolio</b>
   <p>
-    <a href="https://yoonstars-portpolio.vercel.app" target="_blank">Yoonstar's Portfolio 보러가기</a>
+    <a href="https://yoonstars-portfolio.vercel.app" target="_blank">Yoonstar's Portfolio 보러가기</a>
   </p>
 
   <b>🌏 Social</b>
